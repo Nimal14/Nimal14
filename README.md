@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **GEN AI**
 
-- 🌱 I’m currently learning **Deep learning,CNN and AWS**
+- 🌱 I’m currently learning **Image processing, Computer Vision**
 
 - 👯 I’m looking to collaborate on **AI and ML Technologies**
 
