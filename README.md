@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **GEN AI**
 
-- 🌱 I’m currently learning **Image processing, Computer Vision**
+- 🌱 I’m currently learning **Cloud Technologies**
 
-- 👯 I’m looking to collaborate on **AI and ML Technologies**
+- 👯 I’m looking to collaborate on **AI, ML and Web Technologies**
 
 - 📫 How to reach me **nimalavarshan2004@gmail.com**
 
