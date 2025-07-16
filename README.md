@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cloud Technologies**
 
-- 👯 I’m looking to collaborate on **AI, ML and Web Technologies**
+- 👯 I’m looking to collaborate on **AI, ML and DLTechnologies**
 
 - 📫 How to reach me **nimalavarshan2004@gmail.com**
 
